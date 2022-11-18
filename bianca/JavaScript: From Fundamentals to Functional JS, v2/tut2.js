@@ -94,3 +94,5 @@ console.log(mirror([3, 5, 6, 7, 8]),[3, 5, 6, 7, 8, 7, 6, 5, 3])
 
 // // console.log(mirror2);
 // console.log(mirror);
+
+var array= [12,3,4,5,5];
