@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../FrontEnd Master/coding_practice"
+		},
+		{
+			"path": "../FrontEnd Master/commands"
+		},
+		{
+			"path": "../FrontEnd Master/self_learning"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Front_End"
+	}
+}
