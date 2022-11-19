@@ -52,6 +52,8 @@ console.log(mirror([1, 2, 3, 4, 5]),[1, 2, 3, 4, 5, 4, 3, 2, 1])
 
 console.log(mirror([3, 5, 6, 7, 8]),[3, 5, 6, 7, 8, 7, 6, 5, 3]) 
 
+console.log(mirror([4, 8, 12, 16, 20]),[4, 8, 12, 16, 20, 16, 12, 8, 4]) 
+
 
 
 
@@ -95,4 +97,9 @@ console.log(mirror([3, 5, 6, 7, 8]),[3, 5, 6, 7, 8, 7, 6, 5, 3])
 // // console.log(mirror2);
 // console.log(mirror);
 
-var array= [12,3,4,5,5];
+// var array= [12,3,4,5,5];
+
+// for (a=2; a<=20;a= a+2){
+// 		document.write(a+ "<hr>");
+// };
+
