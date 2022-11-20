@@ -5,7 +5,7 @@
 teacher();
 
 function teacher(){
-	console.log("mamta arora");
+	// console.log("mamta arora");
 }
 
             //hoisting with var,let & const
@@ -14,13 +14,13 @@ function teacher(){
 
 // hoisting with var....
 
-console.log(a); // undefined
+// console.log(a); // undefined
 
 var a = 9;
 
-console.log(a); // 9
+// console.log(a); // 9
 
-console.log(b); // error..
+// console.log(b); // error..
 
 let b = "hlw";
 
