@@ -32,4 +32,14 @@ greet(); // output will not be displayed... bcoz only console.log can do this...
 
 console.log(greet());
 
+var a = -1;
+var b = 1;
+
+console.log(a==b);
+
+console.log(a===b);
+
+
+
+
 
